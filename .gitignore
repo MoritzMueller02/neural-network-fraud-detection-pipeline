@@ -1,4 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
 .venv/
-.data/
+env/
+
+# Data
 data/
-.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+.python-version
+
+__pycache__/ 
